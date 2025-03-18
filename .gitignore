@@ -1,0 +1,12 @@
+.vercel
+.qodo
+node_modules
+.vscode
+.env
+dist
+build
+coverage
+.DS_Store
+*.log
+*.tmp
+*.swp

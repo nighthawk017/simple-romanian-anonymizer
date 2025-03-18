@@ -1,0 +1,24 @@
+{
+  "name": "data-anonymizer",
+  "version": "0.0.1",
+  "description": "A simple Vercel project that provides an API endpoint for anonymizing sensitive information in text",
+  "main": "api/anonymize.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "vercel dev",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@types/next": "^9.0.0",
+    "@vercel/node": "latest",
+    "next": "^15.2.2",
+    "typescript": "^5.8.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node": "latest",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.6",
+    "typescript": "^5.8.2"
+  }
+}
