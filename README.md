@@ -1,6 +1,6 @@
 # Anonymizer
 
-This project provides an API endpoint for anonymizing sensitive information in text. The API can anonymize names, phone numbers, CNPs (Romanian Personal Identification Numbers), and email addresses based on the configuration.
+This project provides an API endpoint for anonymizing sensitive information in text. The API can anonymize names, phone numbers, CNPs (Romanian Personal Identification Numbers), and email addresses based on the configuration. This basic project was developed to be deployed on a Vercel function. 
 
 ## API Endpoint
 
